@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>clock.js</file>
+        <file>MyButton.qml</file>
+        <file>PageIndicatorDot.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>TextEditMenu.qml</file>
+        <file>TimerPage.qml</file>
+        <file>WelcomePage.qml</file>
+    </qresource>
+</RCC>
